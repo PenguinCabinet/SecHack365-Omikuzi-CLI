@@ -2,7 +2,7 @@
 
 # SecHack365-Omikuzi-CLI
 
-SecHack365のおみくじ
+SecHack365のおみくじ(非公式)
 
 ![img](img/anime1_2.gif)
 
