@@ -4,7 +4,7 @@
 
 SecHack365のおみくじ(非公式)
 
-![img](img/anime1_2.gif)
+![img](img/anime1_3.gif)
 
 <br>
 <br>
